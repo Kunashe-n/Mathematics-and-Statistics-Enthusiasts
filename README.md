@@ -1,2 +1,1 @@
-# Salary-Prediction-Model
-Statistical Analysis
+# Nicefa-A-nalytics

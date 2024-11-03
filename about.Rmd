@@ -1,0 +1,15 @@
+---
+title: "About this site"
+description: |
+  Some additional details about the website
+---
+
+Contact us on : +263 716704650 or our email ;nicefaanalytics@gmail.com.
+
+Also available on academia.edu ; follow up Nicefa Analytics there!
+
+We hope you find this interesting!
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

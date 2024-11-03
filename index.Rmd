@@ -1,0 +1,32 @@
+---
+title: "Nicefa Analytics"
+image: "photo_2024-09-01_14-23-37.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/NicefaAnalytics?s=09"
+  - label: GitHub
+    url: "https://github.com/nicefaa"
+  - label: Email
+    url: "nicefaanalytics@gmail.com"
+output:
+  postcards::trestles
+site: distill::distill_website  
+---
+ 
+## Bio
+
+Nicefa Analytics is a strata of young analysts applying their extensive expertise in Mathematical and Statistical modeling to real life situations providing with possible solutions. They also provide data science services such as Web development, ML projects, etc .The group majors in research, production and delivering of maximal ultimate solutions.
+
+## Mathematical Majors
+Stochastic processes; Numerical engineering and analysis.
+
+## Statistical Majors
+Survey techniques; Monitoring and evaluation; Design and analysis; Econometrics.
+
+## Web Dev
+
+## Database engineering
+
+## Data analysis.
